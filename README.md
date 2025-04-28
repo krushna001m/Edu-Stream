@@ -5,6 +5,10 @@ Edu-Stream is an **online learning platform** designed to provide seamless **vid
 It focuses on **media streaming**, **user authentication**, and **data storage**, offering a smooth and student-friendly experience.
 
 ---
+## 🌍 Live Demo
+👉 [**View**](https://v0-complete-project-build.vercel.app/)  
+
+---
 
 ## 🚀 Features
 - 🎥 High-quality video streaming for lessons
