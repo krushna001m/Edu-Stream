@@ -1,5 +1,5 @@
 
-# Edu-Stream 🎓📚
+# 🎓📚Edu-Stream 
 
 Edu-Stream is an **online learning platform** designed to provide seamless **video lessons**, **quizzes**, and **progress tracking**.  
 It focuses on **media streaming**, **user authentication**, and **data storage**, offering a smooth and student-friendly experience.
@@ -108,17 +108,7 @@ Edu-Stream/
 
 ---
 
-## 📣 Contributing
+## 👨‍💻 Author
 
-Pull requests are welcome.  
-For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 🙌 Acknowledgments
-
-- [React Documentation](https://reactjs.org/)
-- [Node.js Documentation](https://nodejs.org/en/)
-- [MongoDB Documentation](https://www.mongodb.com/docs/)
-
----
+* **Krushna Mengal**
+  GitHub: [@krushna001m](https://github.com/krushna001m)
